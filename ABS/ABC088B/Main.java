@@ -1,4 +1,4 @@
-package ABC.ABC088B;
+package ABS.ABC088B;
 
 import java.util.*;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package ABC.ABC085B;
+package ABS.ABC085B;
 
 import java.util.*;
 

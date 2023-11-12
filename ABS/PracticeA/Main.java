@@ -1,4 +1,4 @@
-package ABC.PracticeA;
+package ABS.PracticeA;
 
 import java.util.Scanner;
 

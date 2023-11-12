@@ -1,4 +1,4 @@
-package ABC.ABC083B;
+package ABS.ABC083B;
 
 import java.util.ArrayList;
 import java.util.Arrays;
