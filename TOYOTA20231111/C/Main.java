@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Main {
 
+    /**　答えは合っていると思われるが、２秒以内に実行完了しなかった。*/
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
