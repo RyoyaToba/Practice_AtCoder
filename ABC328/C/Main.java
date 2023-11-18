@@ -1,7 +1,6 @@
-package TOYOTA20231111.C;
+package ABC328.C;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 

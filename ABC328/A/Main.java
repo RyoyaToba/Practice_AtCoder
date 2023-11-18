@@ -1,4 +1,4 @@
-package TOYOTA20231111.A;
+package ABC328.A;
 
 import java.util.Scanner;
 
